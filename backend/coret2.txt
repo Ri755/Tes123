@@ -1,0 +1,13 @@
+
+Menambah menu baru
+Membuat menu berstatus active
+Membuat menu berstatus inactive
+Menambah Detail menu baru
+Membuat detail menu berstatus active
+Membuat detail menu berstatus inactive
+Terdapat input kosong pada pembuatan menu
+Terdapat input invalid pada pembuatan menu
+Input kosong saat add detail menu 
+Input invalid saat add detail menu 
+
+
