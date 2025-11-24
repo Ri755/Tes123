@@ -18,7 +18,7 @@ import ErrorPage from "./pages/ErrorPage";
 import brownTheme from "./theme/theme";
 import { MantineProvider } from "@mantine/core";
 import "@mantine/core/styles.css";
-import HistoryPage from "./pages/customer/historyPage";
+import HistoryPage from "./pages/customer/HistoryPage";
 import Pesanan from "./pages/pegawai/Pesanan";
 import DetailPesanan from "./pages/pegawai/DetailPesanan";
 
